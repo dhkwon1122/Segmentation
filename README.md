@@ -6,6 +6,7 @@ Image Segmentation Paper List
     - Region Based Algorithm
     - K-means Clustering
 2. Deep Learning
+
     - Feature Pyramid Networks for Object Detection
     
     - Mask R-CNN: SoTA ⭐︎
