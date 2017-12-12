@@ -8,6 +8,7 @@ Image Segmentation Paper List
 2. Deep Learning
 
     - Feature Pyramid Networks for Object Detection
+      https://arxiv.org/abs/1612.03144v2
     
     - Mask R-CNN: SoTA ⭐︎
       
