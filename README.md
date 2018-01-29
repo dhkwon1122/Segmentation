@@ -1,4 +1,4 @@
-# Segmentation
+# Segmentation & Detection
 
 Image Segmentation Paper List
 1. Traditional Methodology
@@ -7,6 +7,8 @@ Image Segmentation Paper List
     - K-means Clustering
 2. Deep Learning
 
+    - Fully Convolutional Networks for Semantic Segmentation
+    
     - Feature Pyramid Networks for Object Detection
       https://arxiv.org/abs/1612.03144v2
     
