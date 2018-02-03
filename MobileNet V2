@@ -1,0 +1,4 @@
+Depthwise Separable Convolutions
+- Standard Convolution -> Factorized Convolutions
+(일반적인 Convolution 연산을 Factorize된 두 개의 Convolution으로 분리하는 Technique)
+- 
